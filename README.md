@@ -3,5 +3,5 @@
 contact:
 
 
-    @
-mmc   mbg.au.dk
+   
+mmc "at" mbg.au.dk
